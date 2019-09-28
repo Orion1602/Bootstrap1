@@ -1,0 +1,8 @@
+. Info  {
+    background-color: DarkRed;
+    width: 350px;
+}
+.btn btn-danger {
+    background-color: LightBlue;
+}
+
